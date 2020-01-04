@@ -14,6 +14,10 @@ GPX
 GPX is an open XML schema that allows to store in a file collections of: way points, routes and tracks. It is always more used by many GPS devices and applications, because this format is independent from any GPS device producer it is often used to exchange data between devices and softwares of different brands. For example: also with the popular GoogleEarth it is possible to open GPX files and see routes and tracks even in 3D view. More information about the GPX format can be found on its [official website](https://www.topografix.com/gpx.asp).  
 A GPX flight plan can be then loaded (and flown) on other free and open source software such as [LK8000](https://www.lk8000.it/).
 
+Download GPXrouteConverter
+--------------------------
+Here, an already compiled *Java* JAR executable: [**GPXrouteConverter.jar**](https://www.alus.it/airnavigator/GPXrouteConverter.jar).
+
 How to use it
 -------------
 1. Launch the provided JAR executable
@@ -27,6 +31,3 @@ How to use it
   * The selected *VfrFlight* file(s) will be converted to *GPX* with **.gpx** extension ...
   * ... or the selected *GPX* file(s) will be converted to *VfrFlight* with **.vfr** extension
 
-Download GPXrouteConverter
---------------------------
-An already compiled *Java* JAR executable of *GPXrouteConverter* is available from [this page](https://www.alus.it/airnavigator/gpx.php).
