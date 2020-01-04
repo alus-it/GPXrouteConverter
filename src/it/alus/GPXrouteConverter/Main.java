@@ -26,6 +26,8 @@ public class Main {
 		fc.setMultiSelectionEnabled(true);
 		fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
 		fc.setAcceptAllFileFilterUsed(false);
+		fc.setApproveButtonText("Convert");
+		fc.setApproveButtonToolTipText("Convert the selected file(s)");
 		final FileNameExtensionFilter vfr = new FileNameExtensionFilter("VfrFlight flight plans", "vfr");
 		final FileNameExtensionFilter gpx = new FileNameExtensionFilter("GPX flight plans", "gpx");
 		fc.addChoosableFileFilter(vfr);
