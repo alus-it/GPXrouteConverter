@@ -1,11 +1,11 @@
 GPX route converter
 ===================
-The aim of this simple *Java* tool is to convert VFR flight plans produced with the free software [VfrFlight](http://www.vfrflight.org) to **GPX** and viceversa.
+The aim of this simple *Java* tool is to convert flight plans produced with the free software [**VfrFlight**](http://www.vfrflight.org) to **GPX** and viceversa.
 
 VfrFlight
 ---------
-*VfrFlight* is a free, cross platform tool for VFR flight planning. It can be used for real world flight planning and training in *FSX*, *FSX:SE*, *Prepar3D*, *X-Plane 10/11* and *FlightGear*.  
-Unfortunately *VfrFlight* it is not supporting the *GPX* format (version 2.3.1) and that's where **GPXrouteConverter** comes into play.
+*VfrFlight* is a free, cross platform tool for VFR flight planning. It can be used for real world flight planning and training in *FSX*, *FSX:SE*, *Prepar3D*, *X-Plane* 10/11 and *FlightGear*.  
+Unfortunately *VfrFlight* (version 2.3.1) it is not supporting the *GPX* format and that's where **GPXrouteConverter** comes into play.
 * To know know more about *VfrFlight* check its [documentation](http://serwer1998768.home.pl/vfr/en/documentation.html).
 * To get *VfrFlight* check its [download page](http://serwer1998768.home.pl/vfr/en/downloads.php).
 
