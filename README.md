@@ -21,13 +21,13 @@ Here, an already compiled *Java* JAR executable: [**GPXrouteConverter.jar**](htt
 How to use it
 -------------
 1. Launch the provided JAR executable
-  * On *Windows* it should be enough to double click the JAR file
-  * Anyway from command line it would be: `java -jar GPXrouteConverter.jar`
+   - On *Windows* it should be enough to double click the JAR file
+   - Anyway from command line it would be: `java -jar GPXrouteConverter.jar`
 2. Browse to the directory where the file(s) to convert are located
 3. Choose if you want to convert **from** *VfrFlight* files (.vfr) or **from** *GPX* files (.gpx)
 4. Select the file(s) to be converted
 5. Press the *Convert* button
 6. The converted files will be created in the same folder
-  * The selected *VfrFlight* file(s) will be converted to *GPX* with **.gpx** extension ...
-  * ... or the selected *GPX* file(s) will be converted to *VfrFlight* with **.vfr** extension
+   - The selected *VfrFlight* file(s) will be converted to *GPX* with **.gpx** extension ...
+   - ... or the selected *GPX* file(s) will be converted to *VfrFlight* with **.vfr** extension
 
